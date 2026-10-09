@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "hu_HU",
     siteName: "Árpádföldi Tenisz Club",
-    images: [{ url: "/img/locsolas-1200.webp", width: 1200, height: 1046 }],
+    images: [{ url: "/img/kristof-920.webp", width: 920, height: 744 }],
   },
 };
 

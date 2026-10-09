@@ -46,18 +46,17 @@ export default function Home() {
           </div>
           <div className="hero__media">
             <Photo
-              name="locsolas"
-              widths={[720, 1200]}
-              ratio={1200 / 1046}
-              alt="Egy klubtag locsolja a salakpályát; a vízpermet megcsillan a napfényben"
-              sizes="(min-width: 900px) 42vw, 100vw"
+              name="kristof"
+              widths={[640, 920]}
+              ratio={920 / 744}
+              alt="Kincses Kristóf futás közben, a levegőben üti meg a tenyerest egy fedett pályás versenyen"
+              sizes="(min-width: 900px) 46vw, 100vw"
               priority
-              position="62% 50%"
             />
             <p className="hero__badge glass" data-reveal="" style={{ ["--d" as string]: ".5s" }}>
               <span>
-                <strong>Itt mindenki maga gondozza a pályát.</strong> Játék után kefe, vonalsöprés, locsolás: ez a
-                házirend, és a hagyomány.
+                <strong>Kincses Kristóf itt, Árpádföldön fogott először ütőt.</strong> Korosztályos válogatott lett,
+                2022 óta egyetemi ösztöndíjjal az USA-ban játszik.
               </span>
             </p>
           </div>
